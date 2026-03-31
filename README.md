@@ -20,4 +20,8 @@ This is my personal portfolio website built with HTML and CSS as part of my scho
 ## Future Improvements
 - Add JavaScript interactivity
 - Improve responsiveness for mobile devices
-- Add project cards with live demo links
+
+ ##Live Demo Link
+ coming soon
+ ##Repi Link
+
